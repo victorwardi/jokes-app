@@ -1,8 +1,6 @@
-package guru.springframework.jokesapp.service;
+package guru.springframework.jokesapp.services;
 
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class JokesServiceTest {
 
